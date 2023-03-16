@@ -8,6 +8,7 @@ namespace lab_1_pis
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Novo");
+            Console.WriteLine("idiote!");
         }
     }
 }
