@@ -7,5 +7,6 @@ namespace lab_1_pis
     class Class1
     {
         Console.WriteLine("sta je ovo?");
+        Console.WriteLine("!!!!!!!!!!!!!!!!!!");
     }
 }
