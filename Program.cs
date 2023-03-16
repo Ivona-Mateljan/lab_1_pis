@@ -8,7 +8,7 @@ namespace lab_1_pis
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Novo");
-            Console.WriteLine("idiote!");
+            Console.WriteLine("Mia ti si straca i glupa i mrzim te");
         }
     }
 }
